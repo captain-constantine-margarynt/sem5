@@ -1,0 +1,15 @@
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/obj/Debug/net6.0/38.csproj.AssemblyReference.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/obj/Debug/net6.0/38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/obj/Debug/net6.0/38.AssemblyInfoInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/obj/Debug/net6.0/38.AssemblyInfo.cs
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/obj/Debug/net6.0/38.csproj.CoreCompileInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/bin/Debug/net6.0/38
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/bin/Debug/net6.0/38.deps.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/bin/Debug/net6.0/38.runtimeconfig.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/bin/Debug/net6.0/38.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/bin/Debug/net6.0/38.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/obj/Debug/net6.0/38.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/obj/Debug/net6.0/refint/38.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/obj/Debug/net6.0/38.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/obj/Debug/net6.0/38.genruntimeconfig.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 5. Функции и одномерные массивы/HW5/38/obj/Debug/net6.0/ref/38.dll
